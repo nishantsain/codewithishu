@@ -30,5 +30,5 @@ File Systems, Process Management, REST APIs, Markdown
 
 ## Connect With Me
 - GitHub: https://github.com/nishantsain
-- LinkedIn: https://www.linkedin.com/in/nishant-sain-41460b3b9/
+- LinkedIn: https://www.linkedin.com/in/nishant-sain-a70599419/
 - Email: lovableishu42@gmail.com
